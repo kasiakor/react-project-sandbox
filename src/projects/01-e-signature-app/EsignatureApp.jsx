@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Title from "./components/Title";
+import Title from "../components/Title";
 
 const EsignatureApp = () => {
   const [name, setName] = useState("");
