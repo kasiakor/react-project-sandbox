@@ -1,11 +1,12 @@
 import "./App.css";
-import RandomizeColorsApp from "./projects/02-randomize-colors-app/RandomizeColorsApp";
+import LikeDogPhotoApp from "./projects/03-like-dog-photo-app/LikeDogPhotoApp";
 
 function App() {
   return (
     <div className="App">
       {/* <EsignatureApp /> */}
-      <RandomizeColorsApp title="Randomize colors" />
+      {/* <RandomizeColorsApp /> */}
+      <LikeDogPhotoApp />
     </div>
   );
 }
