@@ -1,12 +1,13 @@
 import "./App.css";
-import LikeDogPhotoApp from "./projects/03-like-dog-photo-app/LikeDogPhotoApp";
+import TestimonialsApp from "./projects/04-testimonials-app/TestimonialsApp";
 
 function App() {
   return (
     <div className="App">
       {/* <EsignatureApp /> */}
       {/* <RandomizeColorsApp /> */}
-      <LikeDogPhotoApp />
+      {/* <LikeDogPhotoApp /> */}
+      <TestimonialsApp />
     </div>
   );
 }
